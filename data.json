@@ -1,104 +1,128 @@
-
 {
-    "timeline":
-    {
-        "headline":"Johnny B Goode",
-        "type":"default",
-		"startDate":"2009,1",
-		"text":"<i><span class='c1'>Designer</span> & <span class='c2'>Developer</span></i>",
-		"asset":
-        {
-            "media":"assets/img/notes.png",
-            "credit":"<a href='http://dribbble.com/shots/221641-iOS-Icon'>iOS Icon by Asher</a>",
-            "caption":""
-        },
+    "timeline": {
+        "headline": "《天下有贼》完成编剧",
+        "type": "default",
+        "text": "剧本经过再三修改终于定稿，演员也完成选拔，随时准备开拍。",
+        "startDate": "2013,3,4",
         "date": [
             {
-                "startDate":"2009,2",
-                "headline":"My first experiment in time-lapse photography",
-                "text":"Nature at its finest in this video.",
-                "asset":
-                {
-                    "media":"http://vimeo.com/22439234",
-                    "credit":"",
-                    "caption":""
+                "startDate": "13,3,12",
+                "headline": "主题《未来未来》作曲",
+                "text": "“如果能再次相遇，我们就在一起吧”",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             },
             {
-                "startDate":"2009,5",
-                "headline":"Redesign of my portfolio",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/sidebar_s3.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/401334-Sidebar'>by Chris Brauckmuller</a>",
-                    "caption":""
+                "startDate": "13,3,25",
+                "headline": "为主题曲《未来未来》填词",
+                "text": "“转眼一声告别，吉他变成皮鞋”这是追梦人的无奈啊，我一直相信我们的时代绝不缺梦想，缺的是支持梦想变成现实的力量”",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             },
             {
-                "startDate":"2009,7",
-                "headline":"Another time-lapse experiment",
-                "text":"",
-                "asset":
-                {
-                    "media":"http://vimeo.com/23237102",
-                    "credit":"",
-                    "caption":""
+                "startDate": "13,3,28",
+                "headline": "开机拍摄",
+                "text": "几天的大雨让开机时间一再延期，今天，雨过天晴，《天下有贼》正式出发",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             },
             {
-                "startDate":"2009,10",
-                "headline":"Developed a Gmail Client",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/shot_1298590416.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/120088-Gmail-Pokki-Final-Ui'>by Justalab</a>",
-                    "caption":""
+                "startDate": "13,4,12",
+                "headline": "完成主题《未来未来》编曲",
+                "text": "未来的编曲出乎我意料的棒，听了一边副歌部分就能跟着旋律唱出来。“我牵着你的手，我不想让你走...”,真的朗朗上口",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             },
             {
-                "startDate":"2010,3",
-                "headline":"Logo Design for a pet shop",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/pet___you.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/444003-Pet-You'>by Nikita Lebedev</a>",
-                    "caption":""
+                "startDate": "13,4,16",
+                "headline": "设备损坏，拍摄中止",
+                "text": "糟糕的天气带来糟糕的运气，5D2拍摄过程中损坏了，只完成70%的镜头拍摄",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             },
             {
-                "startDate":"2010,4",
-                "headline":"Developed an iPad newspaper application",
-                "text":"It was a challenge to create both the design and code in a week.",
-                "asset":
-                {
-                    "media":"assets/img/shots/proto_v4_decoupe_2.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/228267-Swiss-newspaper-reader-app-for-iPad-UI-UX-iOS'>by Jonathan Moreira</a>",
-                    "caption":""
+                "startDate": "13,5,2",
+                "headline": "重新编剧，剪辑预览版",
+                "text": "虽然影片镜头还没有完全拍好，但是这部片承载的是两个团队的梦想，还有无数人对这部片的期待。虽然重新编辑失去了影片的精髓，但是也希望大家能喜欢《天下有贼》预览版",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": "written, filmed, and edited by Kate Imbach & Tom Conrad"
                 }
             },
             {
-                "startDate":"2010,8",
-                "headline":"Illustration for a big client.",
-                "text":"",
-                "asset":
-                {
-                    "media":"assets/img/shots/chameleon.jpg",
-                    "credit":"<a href='http://dribbble.com/shots/366400-Chameleon'>Chameleon by Mike</a>",
-                    "caption":""
+                "startDate": "13,5,11",
+                "headline": "现场公映《天下有贼》预览版",
+                "text": "小小的体育馆，挤满了1500多人，虽然是预览版，但是得到了大家的肯定，这几天身边的人都在讨论《天下有贼》，突然有种欺骗粉丝的感觉",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             },
             {
-                "startDate":"2010,12",
-                "headline":"Advert for Volkswagen",
-                "text":"Created the website for their new advertising campaign.",
-                "asset":
-                {
-                    "media":"http://www.youtube.com/watch?v=0-9EYFJ4Clo",
-                    "credit":"",
-                    "caption":""
+                "startDate": "13,5,14",
+                "headline": "制作主题曲《未来未来》MV",
+                "text": "应影迷及歌迷要求，在《天下有贼》预览版的基础上制作了主题曲《未来未来》的MV",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "13,5,25",
+                "headline": "主题曲《未来未来》MV正式发布",
+                "text": "五月天曲风，加上UFO乐队主唱美妙的音色，让主题曲《未来未来》的MV点击率一周时间突破20万",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "13,8,25",
+                "headline": "决定发起众筹，购置设备",
+                "text": "发起众筹的主要目的是，购置设备，完成《天下有贼》剩下镜头的拍摄及后期制作，让这部梦想主题的影片见证支持原创的力量",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "13,9,15",
+                "headline": "项目预热",
+                "text": "预热期，希望大家支持我们这一群人的倔强梦想",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
+                }
+            },
+            {
+                "startDate": "13,9,19",
+                "headline": "正式发起",
+                "text": "正式发起《天下有贼》拍摄制作项目众筹",
+                "asset": {
+                    "media": "",
+                    "credit": "",
+                    "caption": ""
                 }
             }
         ]
